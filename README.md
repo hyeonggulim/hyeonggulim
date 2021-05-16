@@ -5,7 +5,11 @@ https://titanumm.tistory.com/109?category=957662
 http://isd.yonsei.ac.kr/news/?mod=document&uid=3
 
 
-Awards & Competition
+
+
+
+
+#### Awards & Competition
 |기간|주관사|대회명|순위|
 |------|---|---|---|
 |2021 01 ~ 2021 02|DACON & LG|시스템 품질 변화로 인한 사용자 불편 AI 경진대회|Top 6%|
@@ -13,14 +17,14 @@ Awards & Competition
 |2020 09 ~ 2020 12|챌린지온|사이버 보안 챌린지 2020 자동차 해킹 공격/방어 챌린지|5위|
 
 
-Work & Project experience
+#### Work & Project experience
 |기간|소속|내용|참여과제|
 |------|---|---|---|
 |2021 01 ~ Current|연세대학교 산업공학과 SIL 연구실|석사 과정|
 |2020 09 ~ 2020 12|한국전자부품연구원|위촉 연구원|차세대 보안 R&D 선행 연구|
 |2020 06 ~ 2020 12|홍익대학교 컴퓨터공학과 APL 연구실|학부 연구생|신교통수단에 대한 도시 맞춤형 공유 서비스 배차지원 기술 개발|
 
-Activities
+#### Activities
 |기간|소속|활동|
 |------|---|---|
 |2020 03 ~ 2021 02|홍익대학교 제 2 기숙사|사생회 및 층장 활동|
