@@ -6,9 +6,9 @@ http://isd.yonsei.ac.kr/news/?mod=document&uid=3
 
 
 #### Interest
-+ Data Science in Semicondutor manufacturing
-+ remmomandation system
-+ anomaly detection
++ Data Science In Semicondutor Manufacturing
++ Remmomandation System
++ Anomaly Detection
 
 #### Awards & Competition
 |기간|주관사|대회명|순위|
