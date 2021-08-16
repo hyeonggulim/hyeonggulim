@@ -5,11 +5,9 @@ https://titanumm.tistory.com/109?category=957662
 http://isd.yonsei.ac.kr/news/?mod=document&uid=3   
 
 
-
 #### Interest
 + Data Science In Semicondutor Manufacturing
-+ Remmomandation System
-+ Anomaly Detection
++ Anomaly Detection In Time Series
 
 #### Awards & Competition
 |기간|주관사|대회명|순위|TOP|
