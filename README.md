@@ -43,3 +43,4 @@ http://isd.yonsei.ac.kr/news/?mod=document&uid=3
 |2015 03 ~ 2021 02|홍익대학교 전자전기공학부|학사|졸업|
 
 
+
