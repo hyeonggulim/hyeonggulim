@@ -7,6 +7,7 @@ http://isd.yonsei.ac.kr/news/?mod=document&uid=3
 
 #### Interest
 
+
 + Data Science In Semicondutor Manufacturing
 + Anomaly Detection In Time Series
 
