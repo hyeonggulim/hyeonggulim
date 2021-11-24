@@ -14,7 +14,7 @@ http://isd.yonsei.ac.kr/news/?mod=document&uid=3
 #### Awards & Competition
 |기간|주관사|대회명|순위|TOP|
 |--------|--------|------|------|------|
-|2021 08 ~ 2021 11|SKT|SKT AI FELLOWSHIP 3기 대상|1th|TOP 1%|
+|2021 08 ~ 2021 11|SK 텔레콤|SKT AI FELLOWSHIP 3기 대상|1th|TOP 1%|
 |2021 08 ~ 2021 10|DACON & 국가정보원|HAICon2021 산업제어시스템 보안위협 탐지 AI 경진대회|3th|TOP 1%|
 |2021 05 ~ 2021 06|연간 데이콘|인공지능 비트 트레이더 경진대회 시즌|6th|TOP 5%|
 |2021 04 ~ 2021 05|월간데이콘 14|신용카드 사용자 연체 예측 AI 경진대회|4th|TOP 1%|
