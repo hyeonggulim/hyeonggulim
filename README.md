@@ -5,7 +5,6 @@ https://titanumm.tistory.com/109?category=957662
 http://isd.yonsei.ac.kr/news/?mod=document&uid=3   
 
 
-
 #### Interest
 
 + Data Science In Semicondutor Manufacturing
