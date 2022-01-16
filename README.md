@@ -49,5 +49,6 @@ http://isd.yonsei.ac.kr/news/?mod=document&uid=3
 |기간|강의 시간|주관|대상|과정|
 |--------|---|-------|-----|-----|
 |2021 10|8 hours|DACON|IBK 기업은행|기초 머신러닝|
+|2021 12|36 hours|SIL 연구실|SK 하이닉스|머신러닝 실습|
 
 
